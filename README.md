@@ -25,6 +25,30 @@ This repository contains a Spring Boot application that demonstrates simple CRUD
 
 ## Getting Started
 
+### Project Structure
+
+```
+  firstSpringProject
+  │   ├── src
+  │   │   ├── main
+  │   │   │   ├── java
+  │   │   │   │   └── com
+  │   │   │   │       └── example
+  │   │   │   │           └── firstSpringProject
+  │   │   │   │               ├── controller
+  │   │   │   │               │   └── StudentController.java
+  │   │   │   │               ├── exception
+  │   │   │   │               │   └── ResourceNotFoundException.java
+  │   │   │   │               ├── model
+  │   │   │   │               │   └── Student.java
+  │   │   │   │               ├── repository
+  │   │   │   │               │   └── StudentRepository.java (interface)
+  │   │   │   │               ├── services
+  │   │   │   │               │   ├── StudentService.java
+  │   │   │   │               │   └── StudentServiceImpl.java
+  │   │   │   │               └── FirstSpringProjectApplication.java
+```
+
 ### Clone the Repository
 
 ```

@@ -37,4 +37,5 @@ public class Student {
     private String phoneNumber;
 
     // Lombok generates the constructors, getters, and setters
+
 }
