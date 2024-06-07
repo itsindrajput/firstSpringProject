@@ -96,7 +96,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Output/Showcase
 
 <p float="left">
-  <img src="./images/localHost.png" width="49%" height="200"/>
-  <img src="./images/postman.png" width="49%" height="200" /> 
+  <img src="./images/localHost.png" width="49%" height="310"/>
+  <img src="./images/postman.png" width="49%" height="310" /> 
 </p>
 <p> <img src="./images/Code.png" /></p>
