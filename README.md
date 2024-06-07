@@ -89,9 +89,10 @@ Use the following Maven command to build and run the application:
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
+## Blog
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+Excited to share my blog post on CRUD operations with Spring Boot using IntelliJ IDEA Community Edition! Check it out here: 👇
+- [How to Perform CRUD Operations with Spring Boot in IntelliJ IDEA Community](https://itsindrajput.hashnode.dev/how-to-perform-crud-operations-with-spring-boot-in-intellij-idea-community)
 
 ## Output/Showcase
 
