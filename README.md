@@ -85,10 +85,18 @@ Use the following Maven command to build and run the application:
 - PUT /students/{id}: Update a student's information.
 - DELETE /students/{id}: Delete a student.
 
-### Contributing
+## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-### License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Output/Showcase
+
+<p float="left">
+  <img src="./images/localHost.png" width="49%" height="200"/>
+  <img src="./images/postman.png" width="49%" height="200" /> 
+</p>
+<p> <img src="./images/Code.png" /></p>
