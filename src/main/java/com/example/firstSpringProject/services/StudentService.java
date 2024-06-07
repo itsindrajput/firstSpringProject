@@ -1,4 +1,4 @@
-package services;
+package com.example.firstSpringProject.services;
 
 import com.example.firstSpringProject.model.Student;
 import java.util.List;

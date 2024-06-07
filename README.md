@@ -44,7 +44,7 @@ This repository contains a Spring Boot application that demonstrates simple CRUD
   │   │   │   │               ├── repository
   │   │   │   │               │   └── StudentRepository.java (interface)
   │   │   │   │               ├── services
-  │   │   │   │               │   ├── StudentService.java
+  │   │   │   │               │   ├── StudentService.java (interface)
   │   │   │   │               │   └── StudentServiceImpl.java
   │   │   │   │               └── FirstSpringProjectApplication.java
 ```
