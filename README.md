@@ -1,4 +1,4 @@
-# firstSpringProject (Spring Boot CRUD Operation)
+# Spring Boot CRUD Operation
 
 This repository contains a Spring Boot application that demonstrates simple CRUD (Create, Read, Update, Delete) operations with a `Student` entity.
 
